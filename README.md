@@ -46,3 +46,15 @@ To answer Question 6, we apply `StandardScaler` to ensure all features are on th
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Advertising-Sales-Analysis.git](https://github.com/g-puyad-patil/Advertising-Sales-Analysis.git)
+2. Install dependencies:
+
+pip install pandas seaborn scikit-learn matplotlib
+3. Run the analysis:
+python main.py
+
+Results & Insights
+Highest Impact: Based on the coefficients, TV advertising shows the strongest positive correlation with sales.
+
+Model Visualization: The plot below compares the actual sales data against our model's predictions.
+
+Prediction Result: For a budget of $200 TV, $40 Radio, and $50 Newspaper, the model forecasts a specific sales increase (see code output for exact value).
