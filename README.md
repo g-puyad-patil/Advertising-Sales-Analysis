@@ -45,4 +45,4 @@ To answer Question 6, we apply `StandardScaler` to ensure all features are on th
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Advertising-Sales-Analysis.git](https://github.com/YOUR_USERNAME/Advertising-Sales-Analysis.git)
+   git clone [https://github.com/YOUR_USERNAME/Advertising-Sales-Analysis.git](https://github.com/g-puyad-patil/Advertising-Sales-Analysis.git)
